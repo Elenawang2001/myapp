@@ -1,0 +1,58 @@
+
+@font-face {
+    font-family: dd;
+    src: url(../font/Libre_Franklin/LibreFranklin-Italic-VariableFont_wght.ttf);
+}
+a{
+    color: darkgoldenrod;
+    text-align: center;
+background-color: rgb(27, 26, 26);
+padding: 5px;
+display: inline-block;
+}
+h2{
+    color: goldenrod;
+    font-family: dd;
+    font-size: larger;
+}
+div{
+    color: rgb(103, 166, 221);
+}
+thead{
+    color: darkgoldenrod;
+}
+h3{
+    color: darkgoldenrod;
+    font-family: dd;
+}
+#row1{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to bottom, black,yellow);
+}
+#row2{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to top,black 5%,yellow 70%);
+}
+#row5{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to top,black ,yellow
+    );
+}
+#row3{
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(to top,yellow,black);
+}
+#row6{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to bottom,yellow,black);
+}
+#row4{
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to top,yellow,black);
+}

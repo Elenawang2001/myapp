@@ -1,0 +1,112 @@
+.container1{
+    width: 100%;
+    height: 650px;
+    position: relative;
+}
+.box1{
+    width:30%;
+    height: 220px;
+    position: absolute;
+    border: 2px solid black;
+    background-color: cornflowerblue;
+    opacity: 60%;
+    color:gold;
+    top: 300px;
+    right: 50px;
+    
+}
+.container2{
+    width: 100%;
+    height: 400px;
+    
+}
+.ph1{
+    width: 30%;
+    height: 300;
+    float: left;
+    margin: 10px;
+    position: relative;
+}
+.ph2{
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin: 10px;
+    position: relative;
+}
+.ph3{
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin: 10px;
+    position: relative;
+}
+.row1{
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+    
+    position: absolute;
+    top: 0px;
+    opacity: 70%;
+}
+.col1{
+    color:black;
+    float: left;
+    margin: 5px;
+}
+.col2{
+    color:black;
+    float: right;
+    margin: 5px;
+}
+.row2{
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+    
+    position: absolute;
+    top: 0px;
+    opacity: 70%;
+}
+.col3{
+    color:black;
+    float: left;
+    margin: 5px;
+}
+.col4{
+    color:black;
+    float: right;
+    margin: 5px;
+}
+.row3{
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+    
+    position: absolute;
+    top: 0px;
+    opacity: 70%;
+}
+.col5{
+    color:black;
+    float: left;
+    margin: 5px;
+}
+.col6{
+    color:black;
+    float: right;
+    margin: 5px;
+}
+button{
+    background-color: brown;
+    color: azure;
+    position: absolute;
+    top: 150px;
+    right: 150px;
+    opacity: 60%;
+}
+button:hover{
+    background-color: rgb(22, 209, 31);
+    color: bisque;
+}

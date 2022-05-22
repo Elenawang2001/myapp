@@ -1,0 +1,55 @@
+.col1{
+    width: 30%;
+    border:2px  solid rgb(14, 1, 1);
+    height:400px;
+    float: left;
+    margin: 0px;
+}
+body{
+    background-color: chartreuse;
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    overflow: hidden;
+    clear:both;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.col2{
+    width:67%;
+    border:2px  solid rgb(3, 1, 1);
+    height:400px;
+    float: left;
+}
+
+.col{
+    width: 33%;
+    border: 2px solid black;
+    height: 200px;
+    float: left;
+}
+
+.col6{
+    width: 33%;
+    border: 2px solid black;
+    height: 250px;
+    float: left;
+}
+.col7{
+    width: 33%;
+    border: 2px solid black;
+    height: 250px;
+    float: left;
+}
+.col8{
+    width: 33%;
+    border: 2px solid black;
+    height: 250px;
+    float: left;
+}
+.col{
+    padding: 10px;
+}
+
+

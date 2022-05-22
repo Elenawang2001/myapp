@@ -1,0 +1,28 @@
+@font-face {
+    font-family:"dd";
+    src: url(../font/Libre_Franklin/LibreFranklin-VariableFont_wght.ttf);
+}
+a{color: rgb(97, 88, 11);
+display: inline-block;
+}
+h2
+{
+    text-align: center;
+    color: goldenrod;
+}
+
+h3{
+    color: green;
+    font-family:dd;
+    font-size: large;
+}
+p{
+    color:rgb(129, 68, 209);
+    font-size: larger;
+    font-family: 'Lobster', cursive;
+   
+    font-weight: 300;
+}
+button{
+    color: rgb(9, 77, 77);
+}
